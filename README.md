@@ -22,13 +22,9 @@
     <a href="https://github.com/Alquimar">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=alquimar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquimar&layout_compact&langs_count=10&theme=tokyonight"/>
-</div>
+</div> <br>
 
-##
-  
 ![Snake animation](https://github.com/Alquimar/Alquimar/blob/output/github-contribution-grid-snake.svg)
-  
-##
 
 <h3 align="left" dir="auto">Languages and Tools (Learning)</h3>
 
