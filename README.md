@@ -26,7 +26,7 @@
 
 ##
   
-[Snake animation](https://github.com/Alquimar/Alquimar/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Alquimar/Alquimar/blob/output/github-contribution-grid-snake.svg)
   
 ##
 
