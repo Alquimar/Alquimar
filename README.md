@@ -24,6 +24,8 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alquimar&layout_compact&langs_count=10&theme=tokyonight"/>
 </div>
 
+##
+  
 [Snake animation](https://github.com/Alquimar/Alquimar/blob/output/github-contribution-grid-snake.svg)
   
 ##
