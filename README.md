@@ -4,10 +4,10 @@
 
 <h3 align="left" dir="auto">About Me</h3>
 
-<p align="left" dir="auto">Graduated in Information Systems at CEULP/ULBRA, I am currently a Software Engineer at Azion.</p>
+<p align="left" dir="auto">Graduated in Information Systems at CEULP/ULBRA, I am currently a Software Engineer at ONR.</p>
 
 <p dir="auto">
-  🔭 &nbsp; I currently work as a <strong>Software Engineer at Azion</strong> <br>
+  🔭 &nbsp; I currently work as a <strong>Software Engineer at ONR</strong> <br>
   🌱 &nbsp; Estou estudando mais sobre Python e desenvolvimento web <br>
   🎓 &nbsp; Bachelor in Information Systems from CEULP/ULBRA <br>
   💬 &nbsp; Ask me about the most varied subjects, if I don't know the answer, we'll find the solution together <br>
